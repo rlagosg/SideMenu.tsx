@@ -1,2 +1,2 @@
 # SideMenu.tsx
-Menu Desplegable para React o Next
+Menu Desplegable con efecto Blur para React o Next
